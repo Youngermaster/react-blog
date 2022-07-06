@@ -6,7 +6,7 @@ export default function format({ children }) {
     return (
         <>
             <Head>
-                <title>Blog</title>
+                <title>{"Juan Manuel Young Hoyos's Blog"}</title>
             </Head>
 
             <Header></Header>

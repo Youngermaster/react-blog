@@ -1,6 +1,5 @@
 import { ImGithub, ImTwitter, ImYoutube } from "react-icons/im";
 import Link from 'next/link'
-import Newslatter from "./_child/newslatter";
 
 export default function footer() {
 
@@ -12,7 +11,6 @@ export default function footer() {
 
   return (
     <footer className="bg-gray-50" style={bg}>
-      <Newslatter></Newslatter>
       <div className="container mx-auto flex justify-center py-12">
         <div className="py-5">
           <div className="flex gap-6 justify-center">
