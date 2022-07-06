@@ -1,5 +1,8 @@
 {
-  "name": "blog",
+  "name": "jmyounghoyos-blog",
+  "author": {
+    "name": "Juan Manuel Young Hoyos"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {

@@ -5,7 +5,7 @@ export default {
             id: 1,
             title: "Late - Hack The Box",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/Banner-HTB-Late.png",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
@@ -22,7 +22,7 @@ export default {
             id: 2,
             title: "Talkative - Hack The Box",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/Banner-HTB-Talkative.png",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
@@ -32,14 +32,14 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         },
         {
             id: 3,
             title: "Unicode - Hack The Box",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/Banner-HTB-Unicode.png",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
@@ -49,14 +49,14 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         },
         {
             id: 4,
             title: "Your most unhappy customers are your greatest source of learning",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/img4.png",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
@@ -66,14 +66,14 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         },
         {
             id: 5,
             title: "Your most unhappy customers are your greatest source of learning",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/img5.png",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
@@ -83,17 +83,17 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         }
     ],
     Posts: [
         {
             id: 1,
-            title: "Your most unhappy customers are your greatest source of learning",
+            title: "Late - Hack The Box",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
-            img: "/images/articles/posts/img1.jpg",
+            category: "HTB, CTF",
+            img: "/images/Banner-HTB-Late.png",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
             text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
@@ -116,14 +116,14 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         },
         {
             id: 2,
             title: "Your most unhappy customers are your greatest source of learning",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/articles/posts/img2.png",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
@@ -147,14 +147,14 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         },
         {
             id: 3,
             title: "Your most unhappy customers are your greatest source of learning",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/articles/posts/img3.png",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
@@ -178,14 +178,14 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         },
         {
             id: 4,
             title: "Your most unhappy customers are your greatest source of learning",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/articles/posts/img4.png",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
@@ -209,14 +209,14 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         },
         {
             id: 5,
             title: "Your most unhappy customers are your greatest source of learning",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/articles/posts/img5.png",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
@@ -240,14 +240,14 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         },
         {
             id: 6,
             title: "Your most unhappy customers are your greatest source of learning",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/articles/posts/img2.png",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind 
@@ -271,7 +271,7 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         },
     ],
@@ -280,7 +280,7 @@ export default {
             id: 1,
             title: "Your most unhappy customers are your greatest source of learning",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/articles/img1.jpg",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
@@ -290,14 +290,14 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         },
         {
             id: 2,
             title: "Your most unhappy customers are your greatest source of learning",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/articles/img2.jpg",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
@@ -307,14 +307,14 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         },
         {
             id: 3,
             title: "Your most unhappy customers are your greatest source of learning",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/articles/img3.jpg",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
@@ -324,14 +324,14 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         },
         {
             id: 4,
             title: "Your most unhappy customers are your greatest source of learning",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/articles/img4.png",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
@@ -341,14 +341,14 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         },
         {
             id: 5,
             title: "Your most unhappy customers are your greatest source of learning",
             subtitle: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-            category: "Business, Travel",
+            category: "HTB, CTF",
             img: "/images/articles/img5.png",
             description: `
             Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic
@@ -358,7 +358,7 @@ export default {
             author: {
                 name: "Juan Manuel Young Hoyos",
                 img: "/images/author/avatar.png",
-                designation: "CEO and Founder"
+                designation: "Pentester"
             }
         }
     ]
