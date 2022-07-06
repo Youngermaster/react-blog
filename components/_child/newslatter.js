@@ -1,7 +1,7 @@
-export default function newslatter(){
+export default function newslatter() {
     return (
         <section className="bg-gray-50 mt-20">
-            
+
             <div className="container mx-auto md:px-20 py-16 text-center">
                 <h1 className="font-bold text-3xl">Subscribe Newslatter</h1>
 
@@ -14,7 +14,7 @@ export default function newslatter(){
                     Subscribe
                 </button>
 
-            </div>  
+            </div>
         </section>
     )
 }
